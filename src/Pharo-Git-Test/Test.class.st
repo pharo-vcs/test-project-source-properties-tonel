@@ -5,5 +5,5 @@ Class {
 }
 
 { #category : #'as yet unclassified' }
-Test >> versionNumber [ ^ 697
+Test >> versionNumber [ ^ 700
 ]
